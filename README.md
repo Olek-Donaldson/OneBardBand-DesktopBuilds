@@ -8,7 +8,7 @@
  <li>Running the application:</li>
     <ul>
     <li>For Mac, extracting from the zip folder should simply give you the application itself. If attempting to run the application gives you an error like this:
-    <img src="readme-images/unknown-dev.png" alt = "Unidentified developer error" style="margin-right: 10px;"/> 
+    <img src="readme-images/unknown-dev.png" alt = "Unidentified developer error"/> 
     Right-click (or Control + click) on the application, and select "Open" from the context menu. You will get a similar pop up, but this time with an option to Open the application regardless. Have fun!</li>
     <li>For Windows (32-bit & 64-bit) and Linux, extracting the zip folder should give you a regular folder of the same name. Open that folder and run the “One Bard Band” Application (for Windows it’s the .exe file, and for Linux it’s the x86_64 file). Have fun!</li>
     </ul>
