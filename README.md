@@ -28,17 +28,6 @@
 |   |   |
 | Esc | Toggle Pause Menu |
 
-<ul>
-<li>WASD : Movement</li>
-    <ul>
-    <li>W : move up</li>
-    <li>A : move left</li>
-    <li>S: move down</li>
-    <li>D: move right</li>
-    </ul>
-<li>Escape Key : Toggle Pause Menu</li>
-</ul>
-
 #### *In Battle*
 ![Battle](readme-images/battle.png)
 
@@ -59,19 +48,3 @@ When a note reaches the three vertical bars on the left, press the corresponding
 | L   | Play Pan Flute L  |
 |   |   |
 | Esc | Toggle Pause Menu |
-
-<ul>
-<li>Playing Bongos:</li>
-    <ul>
-    <li>C: Hit High Bongo</li>
-    <li>M: Hit Low Bongo</li>
-    </ul>
-<li>Playing Pan Flute</li>
-    <ul>
-    <li>S: Play Pan Flute S</li>
-    <li>D: Play Pan Flute D</li>
-    <li>F: Play Pan Flute F</li>
-    <li>J: Play Pan Flute J</li>
-    <li>K: Play Pan Flute K</li>
-    <li>L: Play Pan Flute L</li>
-    </ul>
