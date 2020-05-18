@@ -18,6 +18,16 @@
 
 #### *In the Overworld*
 ![Overworld](readme-images/overworld.png)
+
+| Key | Action            |
+|-----|-------------------|
+| W   | Move Up  |
+| A   | Move Left   |
+| S   | Move Down  |
+| D   | Move Right  |
+|
+| Esc | Toggle Pause Menu |
+
 <ul>
 <li>WASD : Movement</li>
     <ul>
@@ -35,6 +45,21 @@
 For battle, we recommend placing your hands on the keyboard in traditional typing position, with your index fingers resting on the F and J keys.
 
 When a note reaches the three vertical bars on the left, press the corresponding key to play the note and attack! You'll take damage for any notes you miss! Some Pan Flute notes have a colored bar trailing behind them, meaning the notes are sustained. Press and hold the key to continue playing the note for it's full duration and deal bonus damage (or gain bonus health over time).
+
+| Key | Action            |
+|-----|-------------------|
+| C   | Play High Bongo   |
+| M   | Play Low Bongo    |
+|
+| S   | Play Pan Flute S  |
+| D   | Play Pan Flute D  |
+| F   | Play Pan Flute F  |
+| J   | Play Pan Flute J  |
+| K   | Play Pan Flute K  |
+| L   | Play Pan Flute L  |
+|
+| Esc | Toggle Pause Menu |
+
 <ul>
 <li>Playing Bongos:</li>
     <ul>
