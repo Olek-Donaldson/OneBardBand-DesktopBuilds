@@ -34,7 +34,7 @@
 
 For battle, we recommend placing your hands on the keyboard in traditional typing position, with your index fingers resting on the F and J keys.
 
-When a note reaches the red/pink bar on the left, press the corresponding key to play the note and attack! You'll take damage for any notes you miss! Some Pan Flute notes have a colored bar trailing behind them, meaning the notes are sustained. Press and hold the key to continue paying the note for it's full duration.
+When a note reaches the three vertical bars on the left, press the corresponding key to play the note and attack! You'll take damage for any notes you miss! Some Pan Flute notes have a colored bar trailing behind them, meaning the notes are sustained. Press and hold the key to continue playing the note for it's full duration and deal bonus damage (or gain bonus health over time).
 <ul>
 <li>Playing Bongos:</li>
     <ul>
