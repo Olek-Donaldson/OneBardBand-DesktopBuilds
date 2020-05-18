@@ -25,7 +25,7 @@
 | A   | Move Left   |
 | S   | Move Down  |
 | D   | Move Right  |
-|
+|   |   |
 | Esc | Toggle Pause Menu |
 
 <ul>
@@ -50,14 +50,14 @@ When a note reaches the three vertical bars on the left, press the corresponding
 |-----|-------------------|
 | C   | Play High Bongo   |
 | M   | Play Low Bongo    |
-|
+|   |   |
 | S   | Play Pan Flute S  |
 | D   | Play Pan Flute D  |
 | F   | Play Pan Flute F  |
 | J   | Play Pan Flute J  |
 | K   | Play Pan Flute K  |
 | L   | Play Pan Flute L  |
-|
+|   |   |
 | Esc | Toggle Pause Menu |
 
 <ul>
